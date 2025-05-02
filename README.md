@@ -12,7 +12,7 @@
 ### 🛠️ Tecnologías y herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -26,7 +26,7 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Illera03&hide_rank=true&show_icons=true&include_all_commits=truetheme=tokyonight&locale=es" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Illera03&hide_rank=true&show_icons=true&include_all_commits=true&theme=tokyonight&locale=es" />
 </p>
 
 <p align="left">
