@@ -1,6 +1,8 @@
 <h2 align="center">👋 ¡Hola, soy JORGE!</h2>
 <br>
 
+![](./github-header-image.png)
+
 <p align="left">
   🎓 Estudiante de Ingeniería Informática de Gestión y Sistemas de Información<br>
   🤖 Apasionado por la Inteligencia Artificial y el Machine Learning<br>
