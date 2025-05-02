@@ -1,7 +1,5 @@
 <h2 align="center">👋 ¡Hola, soy JORGE!</h2>
 <br>
-<br>
-<br>
 
 <p align="left">
   🎓 Estudiante de Ingeniería Informática de Gestión y Sistemas de Información<br>
@@ -12,9 +10,6 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas
-- Python, Java, SQL  
-- Scikit-learn, Pandas, NumPy  
-- Git, Docker, Linux
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -30,14 +25,30 @@
 
 ### 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illera03&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Illera03&hide_rank=true&show_icons=true&include_all_commits=truetheme=tokyonight&locale=es" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illera03&layout=compact&theme=tokyonight&locale=es" />
+</p>
+
+---
+
+
+
+<p align="left">
+  📫 <strong>Contacto:</strong><br>
+  <br>
+  <img src="https://img.shields.io/badge/Email-jillera10%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>
 </p>
 
 ---
 
 <p align="left">
-  📫 <strong>Contacto:</strong><br>
-  <a href="jillera10@gmail.com">Correo</a>
+  <img src="https://komarev.com/ghpvc/?username=Illera03&label=Visitas&color=blue&style=flat" alt="visitas al perfil"/>
 </p>
+
+
+
 
