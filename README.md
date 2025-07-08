@@ -55,9 +55,9 @@
 
 ### 📈 Estadísticas de GitHub
 
-<p align="left">
+<!--<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Illera03&hide_rank=true&show_icons=true&include_all_commits=true&theme=tokyonight&locale=es" />
-</p>
+</p>-->
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illera03&layout=compact&theme=tokyonight&locale=es" />
