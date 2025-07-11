@@ -67,7 +67,36 @@
 </p>
 
 <hr style="width:60%; margin:auto;">
+<h3 align="center">📂 Mis proyectos</h3>
+  <p align="center">
+    <a href="https://github.com/Illera03/password-strength-detector">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=password-strength-detector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="password-strength-detector" />
+    </a>
+    <a href="https://github.com/Illera03/card_dex">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=card_dex&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="card_dex" />
+    </a>
+  </p>
+<h3 align="center">📂 Proyectos de la universidad</h3>
 
+  <p align="center">
+    <a href="https://github.com/Illera03/SW_eGela2DropBox">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=SW_eGela2DropBox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="SW_eGela2DropBox" />
+    </a>
+    <a href="https://github.com/Illera03/Proyecto_ADSI">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=Proyecto_ADSI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Proyecto_ADSI" />
+    </a>
+    <a href="https://github.com/Illera03/docker-lamp">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=docker-lamp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="docker-lamp" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Illera03?tab=repositories&sort=stargazers">
+      <img alt="Todos los repositorios" title="Todos mis repos" src="https://custom-icon-badges.demolab.com/badge/-Ver%20todos%20mis%20repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+  </p>
+
+<hr style="width:60%; margin:auto;">
 <p align="center">
   📫 <strong>Contacto:</strong><br>
   <br>
