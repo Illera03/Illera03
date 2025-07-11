@@ -68,7 +68,7 @@
 
 <hr style="width:60%; margin:auto;">
 <h3 align="center">📂 Mis proyectos</h3>
-<br>
+<br><br><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Illera03/password-strength-detector" title="password-strength-detector">
     <img align="left" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=password-strength-detector&theme=react&border_color=FFFFFF&border_radius=10" alt="password-strength-detector" />
@@ -78,10 +78,10 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br><br/><br><br/><br/>
 
 <h3 align="center">📂 Proyectos de la universidad</h3>
-<br>
+<br><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Illera03/docker-lamp" title="docker-lamp">
     <img align="left" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=docker-lamp&theme=react&border_color=FFFFFF&border_radius=10" alt="docker-lamp" />
@@ -91,9 +91,7 @@
   </a>
 </div>
 
-
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
   <p align="center">
     <a href="https://github.com/Illera03?tab=repositories&sort=stargazers">
