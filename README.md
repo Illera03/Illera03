@@ -71,10 +71,10 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Illera03/password-strength-detector" title="password-strength-detector">
-    <img align="left" width="450" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=password-strength-detector&theme=react&border_color=FFFFFF&border_radius=10" alt="password-strength-detector" />
+    <img align="left" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=password-strength-detector&theme=react&border_color=FFFFFF&border_radius=10" alt="password-strength-detector" />
   </a>
   <a align="right" href="https://github.com/Illera03/card_dex" title="card_dex">
-    <img align="right" width="450" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=card_dex&theme=react&border_color=FFFFFF&border_radius=10" alt="card_dex" />
+    <img align="right" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=card_dex&theme=react&border_color=FFFFFF&border_radius=10" alt="card_dex" />
   </a>
 </div>
 
@@ -84,10 +84,10 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Illera03/docker-lamp" title="docker-lamp">
-    <img align="left" width="450" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=docker-lamp&theme=react&border_color=FFFFFF&border_radius=10" alt="docker-lamp" />
+    <img align="left" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=docker-lamp&theme=react&border_color=FFFFFF&border_radius=10" alt="docker-lamp" />
   </a>
   <a align="right" href="https://github.com/Illera03/Proyecto_ADSI" title="Proyecto_ADSI">
-    <img align="right" width="450" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=Proyecto_ADSI&theme=react&border_color=FFFFFF&border_radius=10" alt="Proyecto_ADSI" />
+    <img align="right" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=Proyecto_ADSI&theme=react&border_color=FFFFFF&border_radius=10" alt="Proyecto_ADSI" />
   </a>
 </div>
 
