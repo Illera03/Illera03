@@ -78,7 +78,7 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h3 align="center">📂 Proyectos de la universidad</h3>
 <br>
@@ -93,7 +93,7 @@
 
 
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
   <p align="center">
     <a href="https://github.com/Illera03?tab=repositories&sort=stargazers">
