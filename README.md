@@ -67,31 +67,34 @@
 </p>
 
 <hr style="width:60%; margin:auto;">
-<h3 align="center">📂 Mis proyectos</h3>
-<br><br><br/>
+<h3 align="center">📂 Algunos de mis proyectos</h3>
+<br>
+<h4 align="center">Personales</h4>
+<br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Illera03/password-strength-detector" title="password-strength-detector">
-    <img align="left" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=password-strength-detector&theme=react&border_color=FFFFFF&border_radius=10" alt="password-strength-detector" />
+  <a align="center" href="https://github.com/Illera03/password-strength-detector" title="password-strength-detector">
+    <img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=password-strength-detector&theme=react&border_color=FFFFFF&border_radius=10" alt="password-strength-detector" />
   </a>
-  <a align="right" href="https://github.com/Illera03/card_dex" title="card_dex">
-    <img align="right" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=card_dex&theme=react&border_color=FFFFFF&border_radius=10" alt="card_dex" />
+<span> --------------- </span>
+  <a align="center" href="https://github.com/Illera03/card_dex" title="card_dex">
+    <img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=card_dex&theme=react&border_color=FFFFFF&border_radius=10" alt="card_dex" />
   </a>
 </div>
 
-<br><br/><br><br/><br/>
-
-<h3 align="center">📂 Proyectos de la universidad</h3>
-<br><br/>
+<br>
+<h4 align="center">Universidad</h4>
+<br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Illera03/docker-lamp" title="docker-lamp">
-    <img align="left" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=docker-lamp&theme=react&border_color=FFFFFF&border_radius=10" alt="docker-lamp" />
+  <a align="center" href="https://github.com/Illera03/docker-lamp" title="docker-lamp">
+    <img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=docker-lamp&theme=react&border_color=FFFFFF&border_radius=10" alt="docker-lamp" />
   </a>
-  <a align="right" href="https://github.com/Illera03/Proyecto_ADSI" title="Proyecto_ADSI">
-    <img align="right" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=Proyecto_ADSI&theme=react&border_color=FFFFFF&border_radius=10" alt="Proyecto_ADSI" />
+<span> --------------- </span>
+  <a align="center" href="https://github.com/Illera03/Proyecto_ADSI" title="Proyecto_ADSI">
+    <img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Illera03&repo=Proyecto_ADSI&theme=react&border_color=FFFFFF&border_radius=10" alt="Proyecto_ADSI" />
   </a>
 </div>
 
-<br/><br/><br/><br/><br/>
+<br>
 
   <p align="center">
     <a href="https://github.com/Illera03?tab=repositories&sort=stargazers">
