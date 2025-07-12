@@ -68,7 +68,7 @@
 
 <hr style="width:60%; margin:auto;">
 <h3 align="center">📂 Algunos de mis proyectos</h3>
-<br>
+
 <h4 align="center">Personales</h4>
 <br>
 <div width="100%" align="center">
@@ -94,13 +94,14 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
   <p align="center">
     <a href="https://github.com/Illera03?tab=repositories&sort=stargazers">
       <img alt="Todos los repositorios" title="Todos mis repos" src="https://custom-icon-badges.demolab.com/badge/-Ver%20todos%20mis%20repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
   </p>
+<br>
 
 <hr style="width:60%; margin:auto;">
 <p align="center">
